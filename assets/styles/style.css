@@ -15,6 +15,7 @@ html{
 :root{
     /*Colors*/
     --White: hsl(0 0 100);
+    --BG: hsl(300 5 96);
     --Gray-500: hsl(234 12 34);
     --Gray-400: hsl(212 6 44);
     --Red: hsl(0 78 62);
@@ -54,7 +55,7 @@ html{
 /* BODY */
 
 body{
-    background-color: hsl(0 98 100);
+    background-color: var(--BG);
     min-height: 100vh;
     padding: clamp(56px, 7vw, 102px) clamp(31px, 7.5vw, 163px);
     display: flex;
