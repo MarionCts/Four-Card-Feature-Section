@@ -15,8 +15,8 @@ html{
 :root{
     /*Colors*/
     --White: hsl(0 0 100);
-    --BG: hsl(300 5 96);
-    --Gray-500: hsl(0 0 98);
+    --BG: hsl(0 0 98);
+    --Gray-500: hsl(234 12 34);
     --Gray-400: hsl(212 6 44);
     --Red: hsl(0 78 62);
     --Cyan: hsl(180 62 55);
