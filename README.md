@@ -1,29 +1,31 @@
-# Frontend Mentor - Four card feature section solution
-
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Mentor - Four Card Feature Section 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+  - [Live preview](#live-preview)
+  - [Solution retrospective](#solution-retrospective)
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
+The challenge was to build out a feature section and get it looking as close to the design as possible.
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-### Links
+### Live preview
 
 - Live Site URL: [Live preview](https://marioncts.github.io/Four-Card-Feature-Section/)
+
+### Solution retrospective
+
+For this challenge, I wanted to practice a responsive approach by using the clamp property for text and margin-block/margin-inline instead of the traditional margin-bottom/margin-left properties. This is particularly useful when a page needs to be translated into a right-to-left (RTL) language, for example.
+
+I had a bit of trouble understanding how the clamp property works, but I managed to figure it out and I got the result to be as close as possible to the original design.
+
+I would be grateful for any kind of feedback!
